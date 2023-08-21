@@ -1,5 +1,5 @@
 The bellow printf project is a teamwork done by Mr. Jolly and Mr. Seyi
-
+Partner 1 and 2 on the project
 0x11. C - printf
 C
 Group project
